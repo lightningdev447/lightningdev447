@@ -1,9 +1,9 @@
 
-### 🖥️ Fullstack Software Engineer | Javascript | DevOps 🖥️
+### 🖥️ Senior Fullstack Python Engineer | Python | Javascript | DevOps 🖥️
 
 ---
 
-👌Hi, I’m a _**Full Stack Python Developer**_ with 7 years of experience, specializing in _**Python**_ and _**Django**_ to build scalable, high-performance web applications. I create seamless, responsive user experiences using React and Vue.js, ensuring modern and dynamic frontends. On the DevOps side, I work with Docker, Kubernetes, and CI/CD pipelines to automate deployments and optimize infrastructure. My expertise in RESTful APIs, PostgreSQL, Redis, and Elasticsearch enhances backend performance and data efficiency. I also integrate AI technologies like TensorFlow, OpenAI, and scikit-learn to build smart, data-driven applications. Passionate about clean code, TDD, and scalable architectures, I thrive in Agile environments, always delivering innovative and efficient software solutions.👍  
+👌Hi, I’m a _**Senior Full Stack Python Developer**_ with 7 years of experience, specializing in _**Python**_ and _**Django**_ to build scalable, high-performance web applications. I create seamless, responsive user experiences using React and Vue.js, ensuring modern and dynamic frontends. On the DevOps side, I work with Docker, Kubernetes, and CI/CD pipelines to automate deployments and optimize infrastructure. My expertise in RESTful APIs, PostgreSQL, Redis, and Elasticsearch enhances backend performance and data efficiency. I also integrate AI technologies like TensorFlow, OpenAI, and scikit-learn to build smart, data-driven applications. Passionate about clean code, TDD, and scalable architectures, I thrive in Agile environments, always delivering innovative and efficient software solutions.👍  
 LLM/ML
 
 ---
@@ -86,8 +86,8 @@ LLM/ML
 </div>
 
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=0-lightningdev447&show_icons=true&count_private=true&theme=algolia"/>
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-lightningdev447&layout=compact&theme=algolia&count_private=true" /> 
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=0-LuckyPenny&show_icons=true&count_private=true&theme=algolia"/>
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-LuckyPenny&layout=compact&theme=algolia&count_private=true" /> 
 <img height="150px" />
 <br/>  
 
