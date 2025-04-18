@@ -3,16 +3,15 @@
 
 ---
 
-👌Hi, I’m a _**Senior Full Stack Python Developer**_ with 7 years of experience, specializing in _**Python**_ and _**Django**_ to build scalable, high-performance web applications. I create seamless, responsive user experiences using React and Vue.js, ensuring modern and dynamic frontends. On the DevOps side, I work with Docker, Kubernetes, and CI/CD pipelines to automate deployments and optimize infrastructure. My expertise in RESTful APIs, PostgreSQL, Redis, and Elasticsearch enhances backend performance and data efficiency. I also integrate AI technologies like TensorFlow, OpenAI, and scikit-learn to build smart, data-driven applications. Passionate about clean code, TDD, and scalable architectures, I thrive in Agile environments, always delivering innovative and efficient software solutions.👍  
-LLM/ML
+👌Hi, I’m a _**Senior Software Engineer**_ with 10 years of experience, specializing in _**C#**_ and _**.NET**_ to build scalable, high-performance web applications. I create seamless, responsive user experiences using Angular and React, ensuring modern and dynamic frontends. On the DevOps side, I work with Docker, Kubernetes, and CI/CD pipelines to automate deployments and optimize infrastructure. My expertise in RESTful APIs, PostgreSQL, Redis, and Elasticsearch enhances backend performance and data efficiency. I also integrate AI technologies like TensorFlow, OpenAI, and scikit-learn to build smart, data-driven applications. Passionate about clean code, TDD, and scalable architectures, I thrive in Agile environments, always delivering innovative and efficient software solutions.👍  
 
 ---
 
 <div align="center">
   <p align="left"> 
-    <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/> 
-    </a>  
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="asp.net" width="40" height="40"/>
+    </a>
     <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
     </a> 
